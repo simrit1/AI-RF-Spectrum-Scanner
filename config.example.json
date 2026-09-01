@@ -1,0 +1,8 @@
+{
+  "pluto_uri": "ip:192.168.2.1",
+  "profile": "house_quick",
+  "include_5g": false,
+  "gain_mode": "slow_attack",
+  "manual_gain_db": 50,
+  "notes": "RX only. 5 GHz requires extended tuning and suitable antenna/front-end response."
+}

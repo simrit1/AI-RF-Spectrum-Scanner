@@ -1,0 +1,2 @@
+This package was generated for receive-only spectrum analysis and educational RF experimentation.
+No protocol or payload decoding is implemented.

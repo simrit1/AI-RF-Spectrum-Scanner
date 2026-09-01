@@ -1,0 +1,8 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+scikit-learn>=1.4
+joblib>=1.3
+pandas>=2.1
+pylibiio
+pyadi-iio>=0.0.19
