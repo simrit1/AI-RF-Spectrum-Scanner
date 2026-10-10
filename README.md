@@ -1,5 +1,7 @@
 # ADALM-Pluto House RF AI Scanner
 
+
+
 A receive-only spectrum scanner for an ADALM-Pluto SDR. It sweeps common household RF bands, detects occupied spectral components, extracts RF features, and classifies them with a Random Forest model plus conservative RF sanity checks.
 
 **It does not decode packets, Wi-Fi frames, Bluetooth traffic, audio, messages, identities, MAC addresses, or payload content.** It only analyzes RF energy and signal shape.
